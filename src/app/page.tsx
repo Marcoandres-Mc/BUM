@@ -350,7 +350,7 @@ export default function Home() {
                     <div className="w-full h-full rounded-full overflow-hidden bg-white">
                       <img
                         src="/integrante1.png"
-                        alt="Jhon Calderón"
+                        alt="Sebastián Ruiz"
                         className="w-full h-full object-cover"
                       />
                     </div>
@@ -358,7 +358,7 @@ export default function Home() {
                 </div>
                 <div className="text-center p-4">
                   <h3 className="text-xl font-bold text-gray-900">
-                    Jhon Calderón
+                    Sebastián Ruiz
                   </h3>
                 </div>
                 <div className="h-1 bg-gradient-to-r from-purple-600 to-pink-600"></div>
@@ -421,7 +421,7 @@ export default function Home() {
                   <div className="w-32 h-32 rounded-full bg-gradient-to-r from-purple-600 to-pink-600 p-1">
                     <div className="w-full h-full rounded-full overflow-hidden bg-white">
                       <img
-                        src="/integrante4.png"
+                        src="/integrante5.png"
                         alt="Víctor Pineda"
                         className="w-full h-full object-cover"
                       />
@@ -445,8 +445,8 @@ export default function Home() {
                   <div className="w-32 h-32 rounded-full bg-gradient-to-r from-purple-600 to-pink-600 p-1">
                     <div className="w-full h-full rounded-full overflow-hidden bg-white">
                       <img
-                        src="/integrante5.png"
-                        alt="Sebastián Ruiz"
+                        src="/integrante4.png"
+                        alt="Jhon Calderón"
                         className="w-full h-full object-cover"
                       />
                     </div>
@@ -454,7 +454,7 @@ export default function Home() {
                 </div>
                 <div className="text-center p-4">
                   <h3 className="text-xl font-bold text-gray-900">
-                    Sebastián Ruiz
+                     Jhon Calderón 
                   </h3>
                 </div>
                 <div className="h-1 bg-gradient-to-r from-purple-600 to-pink-600"></div>
